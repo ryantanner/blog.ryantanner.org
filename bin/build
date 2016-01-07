@@ -1,0 +1,4 @@
+#!/bin/bash
+
+jekyll build --config _prod_config.yml,_config.yml
+s3_website push

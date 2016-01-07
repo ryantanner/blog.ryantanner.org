@@ -1,0 +1,15 @@
+#!/bin/bash
+
+FRONTMATTER="
+---\n
+layout: post\n
+title:  Japan&#58; Shabu-Shabu\n
+image:\n
+  feature: 'sensoji.jpg'\n
+---\n\n
+"
+
+DATE=`date +%Y-%m-%d`
+SLUG=$1
+
+echo -e $FRONTMATTER > _posts/$DATE-$SLUG.markdown

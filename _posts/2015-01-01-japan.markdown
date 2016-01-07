@@ -1,0 +1,20 @@
+---
+layout: post
+title:  Japan
+image:
+  feature: "IMG_2553.jpg"
+---
+My first trip to Japan was an attempt by my father to get my mind off my long-term girlfriend.  She had just dumped me after four years.  Certainly he was successful but perhaps not thrilled with the means.
+
+I was a junior in college, having a horrible time after returning from a semester in France (which also did not go well).  I had no spring break plans so my father bought me a ticket to Tokyo.  I planned two weeks, hitting the highlights.  Start in Tokyo, take a shinkansen down to Kyoto, do a little temple-hopping, contemplate America’s past in Hiroshima and fly home.
+
+I arrived in Tokyo on March 10, 2011.  22 hours later, the fifth-largest earthquake in recorded history struck off the coast of Tohoku.
+
+After the earthquake, the power outages, numerous aftershocks and the
+unending cloud of Fukushima, I flew home.
+
+A short trip but one worth at least a few posts:
+
+{% include japan_menu.html %}
+
+Photos can be found on [Flickr](https://www.flickr.com/photos/ryan_tanner/sets/72157626295971882/).
